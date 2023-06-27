@@ -18,7 +18,7 @@ I'm a developer who loves testing. Nowadays I work as QA in my company. And I tr
   <img align="center" alt="Cypress" height="30" width="40" src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg">
 </div>
 
- ##
+ ### Contact Me
 <div> 
   <a href = "mailto:jhonatanssla@gmail.com">
     <img 
