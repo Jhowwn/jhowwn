@@ -1,4 +1,4 @@
-### Hi there, my name is Jhonatan De Sousa Lara 👋
+### Hi there, my name is Jhonatan 👋
 
 ## I'm a trainee 🤖
 I'm a developer who loves testing. Nowadays I work as QA in my company. And I try to finish my collage 👨‍🎓
