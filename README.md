@@ -1,7 +1,7 @@
 ### Hi there, my name is Jhonatan 👋
 
 ## I'm a trainee 🤖
-I'm a developer who loves testing. Nowadays I work as QA in my company. And I try to finish my collage 👨‍🎓
+I'm a developer who loves testing. Nowadays I work as QA in my company.👨‍🎓
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhowwn&show_icons=true&theme=transparent"/>
